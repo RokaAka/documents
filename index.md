@@ -2,7 +2,7 @@
 by Hiroka Akamatsu
 
 ## Privacy Policy Documents
-[Clock&World for iOS Privacy Policy](./clockandworld_ios_privacypolicy.md)
+[Clock&World for iOS Privacy Policy](./clockandworld_ios_privacypolicy.md)  
 [Stillblade for iOS Privacy Policy](./stillblade_privacy.md)
 
 
